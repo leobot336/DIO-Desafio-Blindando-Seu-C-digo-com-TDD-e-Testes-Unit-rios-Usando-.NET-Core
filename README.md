@@ -1,1 +1,2 @@
 # DIO-Desafio-Blindando-Seu-C-digo-com-TDD-e-Testes-Unit-rios-Usando-.NET-Core
+Os códigos apresentados neste repositório são reproduções fiéis dos exemplos desenvolvidos pelo especialista ao longo do curso 'Blindando Seu Código com TDD e Testes Unitários Usando .NET Core'. Eles foram cuidadosamente recriados para fins de estudo e compreensão das práticas abordadas durante as aulas, com o objetivo de consolidar o aprendizado das técnicas de desenvolvimento orientado por testes (TDD) e testes unitários.
